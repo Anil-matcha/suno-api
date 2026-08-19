@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "suno-api"
+version = "0.1.0"
+description = "Python SDK for Suno music, audio, and voice workflows through MuAPI."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Anil Matcha" }]
+license = { text = "MIT" }
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+]
+dependencies = ["requests>=2.31.0"]
+
+[project.urls]
+Homepage = "https://muapi.ai/suno"
+Repository = "https://github.com/Anil-matcha/suno-api"
+
+[tool.setuptools]
+py-modules = ["suno_api"]
