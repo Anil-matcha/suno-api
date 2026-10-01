@@ -17,7 +17,7 @@ A focused Python SDK for **Suno music and audio workflows** through [MuAPI](http
 - [minimax-music-3-comfyui](https://github.com/Anil-matcha/minimax-music-3-comfyui) — ComfyUI nodes for a related text-to-music model.
 - [midjourney-api](https://github.com/Anil-matcha/midjourney-api) — sibling Python SDK for Midjourney image-generation workflows.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source studio for running generative image, video, and audio workflows.
-- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — agent-ready skills for building generative-media pipelines.
+- [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — agent-ready skills for building generative-media pipelines.
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — CLI and MCP access to the same MuAPI model catalog.
 
 ## Features
